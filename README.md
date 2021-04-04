@@ -9,10 +9,10 @@ Além disso, é preciso cuidar da data de expiração do token. Caso esteja expi
 
 ## Tecnologias utilizadas na aplicação
 
-[Nest](https://github.com/nestjs/nest) - Framework para o desenvolvimento da aplicação.
-[TypeORM](https://typeorm.io/) - Ferramenta ORM com suporte à praticamente todos os ambientes que utilizam Javascript/Typescript
-[SQLite](https://www.sqlite.org/index.html) - Banco de dados utilizado nesta aplicação
-[Passport](http://www.passportjs.org/) - Middleware para autenticação com suporte à centenas de estrategias
+- [Nest](https://github.com/nestjs/nest) - Framework para o desenvolvimento da aplicação.
+- [TypeORM](https://typeorm.io/) - Ferramenta ORM com suporte à praticamente todos os ambientes que utilizam Javascript/Typescript
+- [SQLite](https://www.sqlite.org/index.html) - Banco de dados utilizado nesta aplicação
+- [Passport](http://www.passportjs.org/) - Middleware para autenticação com suporte à centenas de estrategias
 
 ## Instalação
 
